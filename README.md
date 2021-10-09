@@ -1,6 +1,6 @@
 # Olá pessoal! 😀 
 
-## Prazer, meu nome é Wilbert Marins!
+## Prazer, meu nome é Wilbert Marins! <img align="right" src="https://komarev.com/ghpvc/?username=WilbertMarins&color=269077">
 
 Sou desenvolvedor , gosto muito do mundo de programação e tento compartilhar esses conhecimentos com as pessoas da melhor forma possível :) , meu foco atual está nas áreas: Blockchain, Tizen e Front-end.
 
