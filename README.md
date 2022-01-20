@@ -5,7 +5,7 @@
 Sou desenvolvedor , gosto muito do mundo de programação e tento compartilhar esses conhecimentos com as pessoas da melhor forma possível :) , meu foco atual está nas áreas: Blockchain, Tizen e Front-end.
 
 #### 📍 Manaus-AM, Brasil
-#### ✅ #opentowork
+
 <br>
 
 ### Objetivos: 
