@@ -15,9 +15,10 @@ Atuo como Analista de Sistemas JR , curto o mundo de programação e tento compa
 ### Linguagens e ferramentas:
 <div>
     <ul>
-        <li> Html | CSS | JS | NodeJS | Solidity | Python | C | MySQL</li>
-        <li> Web3JS | NPM | Blockchain | Ethereum</li>
-        <li>Conhecimento em Scrum e Kanban</li>
+        <li> Html | CSS | JS | Angular | Bootstrap| NodeJS | Python | C | ApiREST | MySQL</li>
+        <li> Web3JS | EtherJS | Solidity | Blockchain | Ethereum</li>
+        <li> NPM </li>
+        <li> Conhecimento em AngularJS</li>  
         <li> VsCode | RemixIDE | Ganache </li>
     </ul>
 </div>
