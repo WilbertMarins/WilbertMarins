@@ -18,7 +18,7 @@ Atuo como Analista de Sistemas JR , curto o mundo de programação e tento compa
         <li> Html | CSS | JS | Angular | Bootstrap| NodeJS | Python | C | ApiREST | MySQL</li>
         <li> Web3JS | EtherJS | Solidity | Blockchain | Ethereum</li>
         <li> NPM </li>
-        <li> Conhecimento em AngularJS</li>  
+        <li> AngularJS</li>  
         <li> VsCode | RemixIDE | Ganache </li>
     </ul>
 </div>
