@@ -15,7 +15,7 @@ Atuo como Analista de Sistemas JR , curto o mundo de programação e tento compa
 ### Linguagens e ferramentas:
 <div>
     <ul>
-        <li> Html | CSS | JS | Angular | Bootstrap| NodeJS | Python | C | ApiREST | MySQL</li>
+        <li> Html | CSS | JS | Angular | Bootstrap| NodeJS | Python | C | ApiREST | MySQL | Flutter</li>
         <li> Web3JS | EtherJS | Solidity | Blockchain | Ethereum</li>
         <li> NPM </li>
         <li> AngularJS</li>  
