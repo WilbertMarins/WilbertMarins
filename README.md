@@ -6,7 +6,7 @@
 const WillDev = {
   Name: "Wilbert Marins",
   Area: "Web and mobile development",
-  ProgrammingLanguages: ["Dart", "JavaScript", "TS", "Solidity"],
+  ProgrammingLanguages: ["Angular", "Dart", "JavaScript", "TS", "Solidity"],
 };
 ```
 
