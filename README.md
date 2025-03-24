@@ -4,21 +4,20 @@
 
 ```JavaScript
 const WillDev = {
-  Name: "Wilbert Marins",
-  Area: "Web and mobile development",
-  ProgrammingLanguages: ["Angular", "Dart", "JavaScript", "TS", "Solidity"],
+  Name: 😎 "Wilbert Marins",
+  Area: 🌐 "Web and mobile development",
+  ProgrammingLanguages: 💻 ["Angular", "Dart", "JavaScript", "TS", "Solidity"],
+  Learning: 📚 "Mobile and web accessibility",
+  Location: 📍 "Manaus-AM, Brazil"
 };
 ```
+With over 3 years of experience in software development I am degree in Information Systems from the State University of Amazonas and a postgraduate degree in Software Architecture from Anhanguera Educacional. I currently work as a Systems Analyst at FPFtech. 
 
-Bachelor's degree in Information Systems at the State University of Amazonas, I currently work as a Systems Analyst at FPFtech. I have approximately 3 years of experience in software development. 
-
-Today I am studying a Lato Sensu postgraduate course - Specialization in Software Architecture.
-
-#### 📍 Manaus-AM, Brazil
+My experience includes full-stack development(Web and Mobile), integrating multidisciplinary teams, and introducing innovative solutions for different aspects of projects.
 <br>
 
 ### Objectives: 
-* Improve myself in software architecture, acting from requirements elicitation to development monitoring (being able to participate in this stage).  
+* Improve myself in software architecture, acting from requirements elicitation to development monitoring.
 
 ### Languages ​​and tools:
 <div>
@@ -43,14 +42,3 @@ Today I am studying a Lato Sensu postgraduate course - Specialization in Softwar
 </div>
 
 <br />
-
----
-
-**My contributions:**
-
-<div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=WilbertMarins&theme=dark&show_icons=true" />  
-  <img width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=WilbertMarins&theme=dark&show_icons=true" />
-</div>
-
-
