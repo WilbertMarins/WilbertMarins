@@ -27,6 +27,7 @@ My experience includes full-stack development(Web and Mobile), integrating multi
         <li> NPM </li> 
         <li> Git | VsCode | RemixIDE | Ganache | Flutter </li>
         <li> SCRUM | Kanban | JIRA </li>
+        <li> Accessibility in Software | UI/UX Design </li>
     </ul>
 </div>
 
